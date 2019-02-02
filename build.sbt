@@ -2,7 +2,7 @@ val Http4sVersion = "0.18.11"
 val Specs2Version = "4.4.1"
 val LogbackVersion = "1.2.3"
 
-val ScalazTaskEffectVersion = "0.1.0"
+val ScalazTaskEffectVersion = "0.2.0"
 
 lazy val root = (project in file("."))
   .settings(
