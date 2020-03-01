@@ -1,5 +1,5 @@
 val Http4sVersion = "0.18.23"
-val Specs2Version = "4.6.0"
+val Specs2Version = "4.9.2"
 val LogbackVersion = "1.2.3"
 
 val ScalazTaskEffectVersion = "0.1.0"
